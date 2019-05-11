@@ -299,7 +299,7 @@
 						<tbody>
 							<tr>
 								<td><a href="https://selectionrs.com/fr/229-miniatures-porsche" target="_blank">
-										<img src="http://www.selectionrs.com/img/e-mailing-26-04-19/milieu-special-price.jpg"
+										<img src="https://www.selectionrs.com/img/e-mailing-26-04-19/milieu-special-price.jpg"
 											alt="Special Prices - 1 : 43 & 1 : 18"></a>
 								</td>
 							</tr>
@@ -1008,7 +1008,7 @@
 							<tr>
 								<td><a href="https://selectionrs.com/fr/371-nouveautes-miniatures-porsche#/echelle-1_43eme"
 										target="_blank">
-										<img src="http://www.selectionrs.com/img/e-mailing-26-04-19/milieu-43.jpg"
+										<img src="https://www.selectionrs.com/img/e-mailing-26-04-19/milieu-43.jpg"
 											alt="Nouveautés & Restock - 1 : 43"></a>
 								</td>
 							</tr>
@@ -1191,7 +1191,7 @@
 							<tr>
 								<td><a href="https://selectionrs.com/fr/229-miniatures-porsche#/echelle-1_43eme"
 										target="_blank">
-										<img src="http://www.selectionrs.com/img/e-mailing-26-04-19/milieu-figurines.jpg"
+										<img src="https://www.selectionrs.com/img/e-mailing-26-04-19/milieu-figurines.jpg"
 											alt="Figurines pour Diorama - 1 : 43"></a>
 								</td>
 							</tr>
@@ -1646,38 +1646,6 @@
 							</tr>
 						</tbody>
 					</table>
-
-
-
-
-
-
-
-
-
-
-
-
-					<!--MILIEU VETEMENT-->
-					<table border="0" cellpadding="0" cellspacing="0" width="582" style="background-color: #000000;">
-						<tbody>
-							<tr>
-								<td><a href="https://selectionrs.com/fr/218-vetements-porsche-et-esprit-porsche"
-										target="_blank">
-										<img src="http://www.selectionrs.com/img/e-mailing-26-04-19/milieu-vetement.jpg"
-											alt="Vêtements & Accessoires"></a>
-								</td>
-							</tr>
-							<tr>
-								<td valign="top">
-									<p
-										style="text-align: center; font-family: impact; color: #ffffff; font-size: 40px; line-height: 1em;">
-										Vêtements<br />& Accessoires</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-
 
 
 
